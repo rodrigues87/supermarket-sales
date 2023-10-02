@@ -1,4 +1,4 @@
 para rodar o projeto
     streamlit run dashboards.py
 
-![img.png](img.png)
+![img_1.png](img_1.png)
